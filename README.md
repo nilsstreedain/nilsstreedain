@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsstreedain&langs_count=10&layout=compact" width="30%" align="right"/>
 
 ### Who am I?
 Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of my free time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsstreedain&langs_count=10" width="30%" align="right"/>
 
 ### What I'm Working On
 - One of my more popular projects is a [list of verified DoH/DoT DNS servers](https://github.com/nilsstreedain/Long-List-of-DNS-Servers). I have written several scripts to find and verify these servers and I plan to publish that work when it is ready.
