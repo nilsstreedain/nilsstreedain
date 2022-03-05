@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Who am I?
-Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of my free time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
+Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on ...
 - One of my more popular projects is a [list of verified DoH/DoT DNS servers](https://github.com/nilsstreedain/Long-List-of-DNS-Servers). I have written several scripts to find and verify these servers and I plan to publish that work when it is ready.
