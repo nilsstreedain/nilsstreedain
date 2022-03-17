@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on...
-- 🧑🏻‍💻 My most recent project is [misu](https://github.com/nilsstreedain/misu) (macOS Iconset Utility). This is a command line utility for creating, modifying & swapping .incs iconsets in macOS.
+- 🧑🏻‍💻 My newest project is [misu](https://github.com/nilsstreedain/misu) (macOS Iconset Utility). This is a command line utility for creating, modifying & swapping .incs iconsets in macOS.
 - ⭐️ One of my more popular projects is a [list of verified DoH/DoT DNS servers](https://github.com/nilsstreedain/Long-List-of-DNS-Servers). I have written several scripts to find and verify DNS servers and I plan to publish that work when it is ready.
 - ☁️ One of my favorite projects I am working on right now is a [dockerized version of the Hak5 Cloud C2 server application](https://github.com/nilsstreedain/Cloud-C2-Docker). I enjoy running and maintaining various server applications in Docker and [Hak5](https://hak5.org)'s products are a great personal hobby of mine.
 - 👨🏻‍🎨 I am constantly modeling various files for 3D printing, these are all published on my [Thingiverse](https://www.thingiverse.com/nilsstreedain) and [PrusaPrinters](https://www.prusaprinters.org/social/1142-nilsstreedain/about) pages!
