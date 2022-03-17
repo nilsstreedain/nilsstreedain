@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+![DarkLogo](https://user-images.githubusercontent.com/25465133/158752672-1e2348e7-5b4c-4995-b554-bb898181a539.png#gh-light-mode-only)
+![LightLogo](https://user-images.githubusercontent.com/25465133/158752832-45305960-0dad-4ed1-b04d-31b17089e1c7.png#gh-dark-mode-only)
 ### Who am I?
 Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
