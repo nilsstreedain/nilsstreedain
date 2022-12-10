@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![LightLogo](https://user-images.githubusercontent.com/25465133/158752832-45305960-0dad-4ed1-b04d-31b17089e1c7.png#gh-dark-mode-only)
 
 ### Who am I?
-Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.thingiverse.com/nilsstreedain). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
+Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.printables.com/social/1142-nilsstreedain/about). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on...
 - 🧑🏻‍💻 My newest project is [duo-bypass](https://github.com/nilsstreedain/duo-bypass). duo-bypass is a [web](duo-bypass.com) & CLI tool used to generate valid HOTP codes using 3rd party and open source applications other than DUO Mobile for organizations using by DUO Security.
