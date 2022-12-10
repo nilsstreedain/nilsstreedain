@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.printables.com/social/1142-nilsstreedain/about). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on...
-- 🧑🏻‍💻 [bereal-bypass](https://github.com/nilsstreedain/bereal-bypass) - bereal-bypass will be a web & CLI tool used to upload custom images to BeReal. Thir project has the goal of highlighting the various significant security implications of the BeReal platform.
-- 🏔️ [happy-trails](https://github.com/nilsstreedain/happy-trails) - Happy Trails is a privacy focused, open source hiking app for iOS.
-- 🔓 [duo-bypass](https://github.com/nilsstreedain/duo-bypass) - duo-bypass is a [web](duo-bypass.com) & CLI tool used to generate valid HOTP codes using 3rd party and open source applications other than DUO Mobile for organizations using by DUO Security.
-- ☁️ [Cloud-C2-Docker](https://github.com/nilsstreedain/Cloud-C2-Docker) - Cloud-Cs-Docker is a dockerized version of the Hak5 Cloud C2 server application. I enjoy running and maintaining various server applications in Docker and [Hak5](https://hak5.org)'s products are a personal hobby of mine.
+- 🧑🏻‍💻 [bereal-bypass](https://github.com/nilsstreedain/bereal-bypass) - A web/CLI tool used to upload custom images to BeReal, highlighting various security implications of the platform.
+- 🏔️ [happy-trails](https://github.com/nilsstreedain/happy-trails) - A simple, privacy focused, open source hiking app for iOS.
+- 🔓 [duo-bypass](https://github.com/nilsstreedain/duo-bypass) - A web/CLI tool used to generate valid DUO HOTP codes on 3rd party apps other than the proprietary DUO Mobile app.
+- ☁️ [Cloud-C2-Docker](https://github.com/nilsstreedain/Cloud-C2-Docker) - A dockerized version of the Hak5 Cloud C2 server application.
 - And much more!
