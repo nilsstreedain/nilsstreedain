@@ -14,15 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![DarkLogo](https://user-images.githubusercontent.com/25465133/158752672-1e2348e7-5b4c-4995-b554-bb898181a539.png#gh-light-mode-only) -->
-<!-- ![LightLogo](https://user-images.githubusercontent.com/25465133/158752832-45305960-0dad-4ed1-b04d-31b17089e1c7.png#gh-dark-mode-only) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="lightLogo.png">
+  <source media="(prefers-color-scheme: light)" srcset="darkLogo.png">
+  <img alt="Nils Streedain Logo" srcset="darkLogo.png">
+</picture>
 
 ### Who am I?
 Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.printables.com/social/1142-nilsstreedain/about). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on...
-- 🧑🏻‍💻 My newest project is [duo-bypass](https://github.com/nilsstreedain/duo-bypass). duo-bypass is a [web](duo-bypass.com) & CLI tool used to generate valid HOTP codes using 3rd party and open source applications other than DUO Mobile for organizations using by DUO Security.
-- ⭐️ One of my more popular projects is a [list of verified DoH/DoT DNS servers](https://github.com/nilsstreedain/Long-List-of-DNS-Servers). Validated by powerful scripts to find and verify DNS servers. I plan to post that work when it is ready.
-- ☁️ One of my favorite projects I am working on is a [dockerized version of the Hak5 Cloud C2 server application](https://github.com/nilsstreedain/Cloud-C2-Docker). I enjoy running and maintaining various server applications in Docker and [Hak5](https://hak5.org)'s products are a great personal hobby of mine.
-- 👨🏻‍🎨 I am constantly modeling various files for 3D printing, these are all published on my [Thingiverse](https://www.thingiverse.com/nilsstreedain) and [Printables](https://www.printables.com/social/1142-nilsstreedain/about) pages!
+- 🧑🏻‍💻 [bereal-bypass](https://github.com/nilsstreedain/bereal-bypass) - bereal-bypass will be a web & CLI tool used to upload custom images to BeReal. Thir project has the goal of highlighting the various significant security implications of the BeReal platform.
+- 🏔️ [happy-trails](https://github.com/nilsstreedain/happy-trails) - Happy Trails is a privacy focused, open source hiking app for iOS.
+- 🔓 [duo-bypass](https://github.com/nilsstreedain/duo-bypass) - duo-bypass is a [web](duo-bypass.com) & CLI tool used to generate valid HOTP codes using 3rd party and open source applications other than DUO Mobile for organizations using by DUO Security.
+- ☁️ [Cloud-C2-Docker](https://github.com/nilsstreedain/Cloud-C2-Docker) - Cloud-Cs-Docker is a dockerized version of the Hak5 Cloud C2 server application. I enjoy running and maintaining various server applications in Docker and [Hak5](https://hak5.org)'s products are a personal hobby of mine.
 - And much more!
