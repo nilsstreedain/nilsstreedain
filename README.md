@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </picture>
 
 ### Who am I?
-Hello, my name is Nils Streedain. I am a Maker/Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.printables.com/social/1142-nilsstreedain/about). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
+Hello, my name is Nils Streedain. I am a Student from Portland Oregon. I spend a lot of time working on open source projects from coding to [3D modeling](https://www.printables.com/social/1142-nilsstreedain/about). I am currently studying Computer Science with a focus on Cyber Security at Oregon State University.
 
 ### 🔭 I’m currently working on...
 - 📸 [bereal-bypass](https://github.com/nilsstreedain/bereal-bypass) - Site to upload custom images to BeReal, highlighting security implications of the platform.
